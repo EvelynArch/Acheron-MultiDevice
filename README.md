@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="./15d69b333ba0a680132f3044c80c9427.jpg
+    <img src="./.jpg
 " width="100%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
 <h1 align="center">Acheron-MultiDevice</h1>
